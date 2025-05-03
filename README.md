@@ -31,7 +31,7 @@ To build an LSTM model capable of predicting future values in a time series data
 
 ## Results
 
-- Achieved an RMSE of **[0.045]** on test data.
+- Achieved an RMSE of **[0.13]** on test data.
 - The LSTM model successfully captured seasonality and short-term trends in the dataset.
 - Clear visual alignment of prediction and actual values demonstrated model effectiveness.
 
